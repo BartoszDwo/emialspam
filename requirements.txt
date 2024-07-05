@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+pyodbc
+imaplib
+email
+sklearn
+beautifulsoup4
+matplotlib
